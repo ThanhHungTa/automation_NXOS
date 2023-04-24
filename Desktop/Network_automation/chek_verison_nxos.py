@@ -47,7 +47,7 @@ with open(ip_device, 'r') as file:
 #     'device_type': 'cisco_nxos',
 #     'ip': '192.168.20.100',
 #     'username': 'net-user',
-#     'password': 'network@Hahalolo2023',
+#     'password': 'decoded_password',
 #     'port': 22,  # Default SSH port for Cisco Nexus
 # }
 
